@@ -37,3 +37,11 @@ Personal productivity boosters with smart reminders
 Anyone passionate about combining automation and chat technology to enhance workflows
 
 Elevate your digital communication—this project is a showcase of innovation at the intersection of automation and real-time messaging, designed to save time and keep you connected like never before.
+
+**WorkFlow**
+<img width="1300" height="465" alt="image" src="https://github.com/user-attachments/assets/b5df1cde-f18b-49b8-adde-79e05b982db9" />
+**Telegram Bot Interface**
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/ea09db0a-b291-4e14-a5a4-41f2ae9349bf" />
+
+
+
