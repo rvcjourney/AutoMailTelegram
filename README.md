@@ -40,8 +40,12 @@ Elevate your digital communication—this project is a showcase of innovation at
 
 **WorkFlow**
 <img width="1300" height="465" alt="image" src="https://github.com/user-attachments/assets/b5df1cde-f18b-49b8-adde-79e05b982db9" />
+<hr/>
 **Telegram Bot Interface**
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/ea09db0a-b291-4e14-a5a4-41f2ae9349bf" />
+<img width="1366" height="720" alt="image (1)" src="https://github.com/user-attachments/assets/12cd9f94-c09d-4c39-bdfa-255c07f34c3f" />
+
+
+
 
 
 
